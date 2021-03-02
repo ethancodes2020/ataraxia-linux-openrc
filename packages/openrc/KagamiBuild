@@ -1,8 +1,8 @@
 # Description: Dependency based init system
 # URL:         https://github.com/OpenRC/openrc/
-# Maintainer:  protonesso, nagakamira at gmail dot com
-# Depends on:  pam kmod util-linux toybox sinit
-# Priority:    required
+# Maintainer:  ethancodes2020, ethanatchley2006 at gmail dot com
+# Depends on:  eudev pam kmod util-linux toybox
+# Priority:    extra
 # Section:     base
 
 name=openrc
